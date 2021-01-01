@@ -274,9 +274,9 @@ defaults:
       type: posts
     values:
       layout: single
+      classes: wide
       author_profile: false
       read_time: true
       comments: # true
       share: true
       related: true
-      classes: wide
