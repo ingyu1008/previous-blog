@@ -1,0 +1,37 @@
+.head {
+    width: 60%;
+    margin: auto;
+    height: 72px;
+    border-bottom: 1px solid #cccccc;
+}
+
+.navigation {
+    float: left;
+    padding: 18px;
+    line-height: 18px;
+    font-size: 18px;
+    font-weight: 700;
+    color: #666666;
+    text-decoration: none;
+}
+.navigation:hover {
+    color: #000000;
+}
+
+.nav {
+    float: right;
+}
+.nav ul {
+    display: inline-block;
+    height: 72px;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    list-style-type: none;
+}
+.nav .navigation {
+    font-weight: normal;
+}
+.nav li {
+    display: inline-block;
+    line-height: 18px;
+}
